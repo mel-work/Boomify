@@ -262,7 +262,7 @@ client.on('interactionCreate', async interaction => {
             }
 
             const boomed = await boomhauerify(lastMessage.content);
-            const fullMessage = `${targetUser} ${boomed}`;
+            const fullMessage = `${boomed}`;
             
             if (fullMessage.length > 2000) {
                 return interaction.editReply({
