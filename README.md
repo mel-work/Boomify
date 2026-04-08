@@ -1,4 +1,3 @@
-Here are quick and simple Terms of Service and Privacy Policy for your Boomhauer bot:
 🤠 Boomhauer Bot - Terms of Service
 Last Updated: 4.8.26
 By using Boomhauer Bot, you agree to these terms:
